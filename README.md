@@ -1,3 +1,3 @@
 # csd
 
-csd is a solver for computational structural dynamics
+csd is a structural dynamics solver
